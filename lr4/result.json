@@ -1,0 +1,15 @@
+{
+    "temperature": {
+        "average": 19.49,
+        "min": 14.4,
+        "max": 27.4
+    },
+    "humidity": {
+        "average": 60.77
+    },
+    "pressure": {
+        "average": 99943.33,
+        "min": 98260.0,
+        "max": 101140.0
+    }
+}
